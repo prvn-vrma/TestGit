@@ -7,3 +7,8 @@ With Subversion, you have a Problem: The SVN Repository may be in a location you
 (in your company, and you don't have internet at the moment), you cannot commit. 
 If you want to make a copy of your code, you have to literally copy/paste it.
 
+-------
+
+With Git, you do not have this problem. Your local copy is a repository, and you can commit to it and 
+get all benefits of source control. 
+When you regain connectivity to the main repository, you can commit against it.
