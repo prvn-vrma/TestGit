@@ -1,0 +1,9 @@
+Git have their own local repository which is not in svn. Which have one central repo.
+
+So if person is unable to connect to server central repo or dont have internet then have to copy code somewhere and have
+to wait for internet to come.
+
+With Subversion, you have a Problem: The SVN Repository may be in a location you can't reach 
+(in your company, and you don't have internet at the moment), you cannot commit. 
+If you want to make a copy of your code, you have to literally copy/paste it.
+
